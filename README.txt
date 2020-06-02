@@ -1,0 +1,1 @@
+Para correr el programa usar el comando java Main.Tarea
